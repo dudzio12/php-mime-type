@@ -232,6 +232,7 @@ class MimeTypeCollection
         '.hal' => 'application/vnd.hal+xml',
         '.hbci' => 'application/vnd.hbci',
         '.hdf' => 'application/x-hdf',
+        '.heic' => 'image/heic',
         '.hlp' => 'application/winhlp',
         '.hpgl' => 'application/vnd.hp-hpgl',
         '.hpid' => 'application/vnd.hp-hpid',
